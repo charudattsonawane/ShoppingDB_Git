@@ -1,0 +1,10 @@
+C:\ShoppingDB_VS\ShoppingDB_VS\bin\Debug\ShoppingDB_VS.dacpac
+C:\ShoppingDB_VS\ShoppingDB_VS\bin\Debug\ShoppingDB_VS.dll
+C:\ShoppingDB_VS\ShoppingDB_VS\bin\Debug\ShoppingDB_VS.pdb
+C:\ShoppingDB_VS\ShoppingDB_VS\obj\Debug\ShoppingDB_VS.sqlproj.AssemblyReference.cache
+C:\ShoppingDB_VS\ShoppingDB_VS\obj\Debug\Model.xml
+C:\ShoppingDB_VS\ShoppingDB_VS\obj\Debug\refactor.xml
+C:\ShoppingDB_VS\ShoppingDB_VS\obj\Debug\postdeploy.sql
+C:\ShoppingDB_VS\ShoppingDB_VS\obj\Debug\predeploy.sql
+C:\ShoppingDB_VS\ShoppingDB_VS\obj\Debug\ShoppingDB_VS.dll
+C:\ShoppingDB_VS\ShoppingDB_VS\obj\Debug\ShoppingDB_VS.pdb
